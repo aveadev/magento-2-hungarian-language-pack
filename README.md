@@ -3,7 +3,7 @@
 **Install Hungarian pack**:
 
 ``` php
-composer require aveadev/magento-2-hungarian-language-pack:dev-master
+composer require aveadev/magento-2-hungarian-language-pack:dev-main
 php bin/magento setup:static-content:deploy hu_HU
 php bin/magento indexer:reindex
 php bin/magento cache:clean
