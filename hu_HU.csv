@@ -9300,8 +9300,8 @@ If field is empty default value localhost will be saved.",module,Magento_PageCac
 "Learn More","További információk",module,Magento_Paypal
 "View Demo","View Demo",module,Magento_Paypal
 "See terms","See terms",module,Magento_Paypal
-"You will be redirected to the PayPal website.","You will be redirected to the PayPal website.",module,Magento_Paypal
-"You will be redirected to the PayPal website when you place an order.","You will be redirected to the PayPal website when you place an order.",module,Magento_Paypal
+"You will be redirected to the PayPal website.","Átirányítunk a PayPal weboldalára.",module,Magento_Paypal
+"You will be redirected to the PayPal website when you place an order.","Átirányítunk a PayPal weboldalára.",module,Magento_Paypal
 "Incl. Tax","Adóval",module,Magento_Paypal
 "Billing Information","Számlázási információk",module,Magento_Paypal
 "Shipping Information","Szállítási információk",module,Magento_Paypal
@@ -9673,10 +9673,10 @@ If field is empty default value localhost will be saved.",module,Magento_PageCac
 "Additional Options","Additional Options",module,Magento_Paypal
 "-- Please Select Billing Agreement--","-- Please Select Billing Agreement--",module,Magento_Paypal
 "Acceptance Mark","Acceptance Mark",module,Magento_Paypal
-"What is PayPal?","What is PayPal?",module,Magento_Paypal
+"What is PayPal?","Mi az a PayPal?",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases  with PayPal.","Sign a billing agreement to streamline further purchases  with PayPal.",module,Magento_Paypal
 "Sign a billing agreement to streamline further purchases with PayPal.","Sign a billing agreement to streamline further purchases with PayPal.",module,Magento_Paypal
-"Continue to PayPal","Continue to PayPal",module,Magento_Paypal
+"Continue to PayPal","Tovább a PayPalra",module,Magento_Paypal
 "Save credit card information for future use.","Save credit card information for future use.",module,Magento_Paypal
 "Sorry, something went wrong.","Sorry, something went wrong.",module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Paypal
