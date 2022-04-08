@@ -1,15 +1,12 @@
 {
   "name": "aveadev/magento-2-hungarian-language-pack",
   "description": "Hungarian language package for Magento 2",
-  "version": "0.0.2",
   "keywords": [
     "magento", 
     "hungarian language",
     "hu_HU"
   ],
   "type": "magento2-language",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "license": "MIT",
   "authors": [
     {
