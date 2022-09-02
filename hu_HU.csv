@@ -14520,8 +14520,8 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Subtotal Only","Subtotal Only",module,Magento_Tax
 "(Excl. Tax)","(Excl. Tax)",module,Magento_Tax
 "(Incl. Tax)","(Incl. Tax)",module,Magento_Tax
-"Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
-"Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
+"Order Total Excl. Tax","Total Adó nélkül",module,Magento_Tax
+"Order Total Incl. Tax","Total Adóval",module,Magento_Tax
 "Order Total","Rendelés végösszege",module,Magento_Tax
 "You will be charged for","You will be charged for",module,Magento_Tax
 "Warning tax configuration can result in rounding errors. ","Warning tax configuration can result in rounding errors. ",module,Magento_Tax
