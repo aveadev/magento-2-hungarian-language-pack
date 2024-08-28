@@ -890,7 +890,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "City","Város",module,Magento_Backend
 "Street Address","Utca, házszám",module,Magento_Backend
 "Street Address Line 2","Utca, házszám 2. sor",module,Magento_Backend
-"VAT Number","Adószám",module,Magento_Backend
+"VAT Number","Közösségi adószámunk",module,Magento_Backend
 "Single-Store Mode","Egyboltos üzemmód",module,Magento_Backend
 "Enable Single-Store Mode","Egy-bolt üzemmód engedélyezése",module,Magento_Backend
 "This setting will not be taken into account if system has more than one store view.","E beállítás nem lesz alkalmazva a fiókra, ha a rendszerben egynél több boltnézet került beállításra.",module,Magento_Backend
@@ -3738,7 +3738,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Company Name:","Cégnév:",module,Magento_Company
 "Company Legal Name:","Cég teljes neve:",module,Magento_Company
 "Company Email:","Céges email:",module,Magento_Company
-"VAT/TAX ID:","Adószám:",module,Magento_Company
+"VAT/TAX ID:","Közösségi adószámunk:",module,Magento_Company
 "Re-seller ID:","Viszonteladói azonosító:",module,Magento_Company
 "Street Address:","Utca, házszám:",module,Magento_Company
 "City:","Település:",module,Magento_Company
