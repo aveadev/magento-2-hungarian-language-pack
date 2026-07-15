@@ -12428,7 +12428,6 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Köszönjük a %store_name webáruházban leadott megrendelést.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","A rendelés állapotát ellenőrizheted, ha <a href=""%account_url"">bejelentkezel a felhasználói fiókodba</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","vagy hívjon minket a <a href=""tel:%store_phone""> %store_phone</a> számon",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Az ön jóváírása #%creditmemo_id a(z) #%order_id számú megrendeléshez",module,Magento_Sales
@@ -12444,7 +12443,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Once your package ships we will send you a tracking number.","Ha a csomag szállításra kész, elküldjük a nyomkövetési kódot.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","A z Ön rendelése <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Rendelés ideje: <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order.",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Ha a csomag szállításra kész, elküldjük a nyomkövetési kódot.",module,Magento_Sales
 "Update to your %store_name order","%store_name megrendeléssel kapcsolatos válzozások",module,Magento_Sales
 "Your %store_name order has shipped","A %store_name megrendelése szállításra került",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","A szállítási információ megerősítve. Köszönjük rendelését.",module,Magento_Sales
@@ -16263,7 +16262,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Credit memo for your %store_name order","Jóváírás a %store_name megrendeléshez",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Köszönjük a %store_name webáruházban leadott megrendelést.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","A rendelés állapotát ellenőrizheted, ha <a href=""%account_url"">bejelentkezel a felhasználói fiókodba</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Ha kérdésed van a rendeléseddel kapcsolatban, <a href=""mailto:%store_email"">%store_email</a> címre írj nekünk",module,Magento_Sales
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Ha kérdésed van a rendeléseddel kapcsolatban, <a href=""mailto:%store_email"">%store_email</a> címre írj nekünk.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Ha kérdésed van a rendeléseddel kapcsolatban, <a href=""mailto:%store_email"">%store_email</a> címre írj nekünk",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Az ön jóváírása #%creditmemo_id a(z) #%order_id számú megrendeléshez",theme,frontend/Magento/luma
 "Billing Info","Számlázási információk",theme,frontend/Magento/luma
 "Shipping Info","Szállítási információk",theme,frontend/Magento/luma
