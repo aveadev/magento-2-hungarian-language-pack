@@ -16426,3 +16426,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The widget %1 is no longer available. Select a different widget.","A %1 widget már nem érhető el. Válasszon másik widgetet.",lib,web
 "First character must be letter.","Az első karakternek betűnek kell lennie.",lib,web
 "The password can't be the same as the email address. Create a new password and try again.","A jelszó nem lehet ugyan az mint az email cím. Kérem használjon másik jelszót, és próbálja meg még egyszer.",lib,web
+Shipping Info,Szállítási adatok,module,Magento_Sales
