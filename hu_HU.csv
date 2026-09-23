@@ -16427,3 +16427,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "First character must be letter.","Az első karakternek betűnek kell lennie.",lib,web
 "The password can't be the same as the email address. Create a new password and try again.","A jelszó nem lehet ugyan az mint az email cím. Kérem használjon másik jelszót, és próbálja meg még egyszer.",lib,web
 Shipping Info,Szállítási adatok,module,Magento_Sales
+Your Cart,Az Ön kosara,module,Magento_Checkout
+Legal guarantee notice,Jogi garanciális tájékoztató,module,Swissup_CheckoutConsumerRights
+Toggle Nav,Menü,module,Magento_Theme
