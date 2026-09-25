@@ -3286,7 +3286,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Edit","Szerkesztés",module,Magento_Checkout
 "Remove item","Elem eltávolítása",module,Magento_Checkout
 "You have no items in your shopping cart.","A kosár üres.",module,Magento_Checkout
-"Click <a href=""%1"">here</a> to continue shopping.","Kattintson <a href=""%1""> ide</a> a vásárlás folytatásához.",module,Magento_Checkout
+"Click <a href=""%1"">here</a> to continue shopping.","Kattintson <a href=""%1"">ide</a> a vásárlás folytatásához.",module,Magento_Checkout
 "Estimate Tax","Becsült adó",module,Magento_Checkout
 "Estimate Shipping and Tax","Becsült szállítás és adó",module,Magento_Checkout
 "Excl. Tax","Adó nélkül",module,Magento_Checkout
@@ -3399,7 +3399,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Method Title","A módszer megnevezése",module,Magento_Checkout
 "Carrier Title","Szállító megnevezése",module,Magento_Checkout
 "Next","Következő",module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Sajnáljuk, de jelenleg erre a megrendelésre nem tudunk ajánlatot adni",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Ehhez a rendeléshez jelenleg nem érhető el szállítási mód.",module,Magento_Checkout
 "Item in Cart","Termék a kosárban",module,Magento_Checkout
 "Items in Cart","Termék a kosárban",module,Magento_Checkout
 "Require Customer To Be Logged In To Checkout","Require Customer To Be Logged In To Checkout",module,Magento_Checkout
@@ -4191,7 +4191,7 @@ Your outstanding balance currently totals %outstanding_balance. You are %exceed_
 "Company credit account will be charged: ","Company credit account will be charged: ",module,Magento_CompanyCredit
 "Place Order","Megrendelés",module,Magento_CompanyCredit
 "Cancel the Order","Cancel the Order",module,Magento_CompanyCredit
-"This is a required field.","Ez egy szükséges mező.",module,Magento_CompanyCredit
+"This is a required field.","Ez a mező kötelező.",module,Magento_CompanyCredit
 "Please enter a valid number in this field.","Kérem adjon meg egy érvényes számot.",module,Magento_CompanyCredit
 "{oldCur}/{newCur} Rate","{oldCur}/{newCur} Rate",module,Magento_CompanyCredit
 "Reimburse","Reimburse",module,Magento_CompanyCredit
@@ -8816,7 +8816,7 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.","If you proceed, catalog prices and cart discounts on this quote will be updated as per the latest changes in the catalog and the price rules.",module,Magento_NegotiableQuote
 "No ordered items","Nincs megrendelt termék",module,Magento_NegotiableQuote
 "Please enter a number greater than 0 in this field","Please enter a number greater than 0 in this field",module,Magento_NegotiableQuote
-"This is a required field.","Ez egy szükséges mező.",module,Magento_NegotiableQuote
+"This is a required field.","Ez a mező kötelező.",module,Magento_NegotiableQuote
 "Please enter a non-decimal number please","Please enter a non-decimal number please",module,Magento_NegotiableQuote
 "This is a required option.","Ez egy kötelező lehetőség.",module,Magento_NegotiableQuote
 "The field isn't complete.","A mező nem teljes.",module,Magento_NegotiableQuote
@@ -14900,7 +14900,7 @@ than a customer might expect. ",module,Magento_Tax
 "Please enter a value greater than or equal to {0}.","Adjon meg egy értéket amely nagyobb vagy egyenlő mint {0}.",module,Magento_Ui
 "Please enter valid email addresses, separated by commas. For example, johndoe@domain.com, johnsmith@domain.com.","Adjon meg érvényes e-mail címeket, vesszővel elválasztva. Például johndoe@domain.com, johnsmith@domain.com.",module,Magento_Ui
 "Please enter issue number or start date for switch/solo card type.","Kérem adja meg a hibaszámot, vagy a switch/solo kártyatípus kezdő dátumát.",module,Magento_Ui
-"This is a required field.","Ez egy szükséges mező.",module,Magento_Ui
+"This is a required field.","Ez a mező kötelező.",module,Magento_Ui
 "Please enter positive number in this field.","Kérem adjon meg egy pozitív számot.",module,Magento_Ui
 "Please enter a valid value, ex: 10,20,30","Kérem érvényes értéket adjon meg (Pl: 10,20,30)",module,Magento_Ui
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Ui
@@ -16109,7 +16109,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Add to Compare","Összehasonlításhoz ad",module,Magento_Wishlist
 "This Wish List has no Items","A kívánság lista üres",module,Magento_Wishlist
 "%1 has been added to your Wish List.","%1 is felkerült a kívánság listára.",module,Magento_Wishlist
-"Click <a href=""%1"">here</a> to continue shopping.","Kattintson <a href=""%1""> ide</a> a vásárlás folytatásához.",module,Magento_Wishlist
+"Click <a href=""%1"">here</a> to continue shopping.","Kattintson <a href=""%1"">ide</a> a vásárlás folytatásához.",module,Magento_Wishlist
 "See Details","Részletek",module,Magento_Wishlist
 "Options Details","Lehetőségek leírása",module,Magento_Wishlist
 "RSS link to %1's wishlist","%1 kívánságlistájának RSS linkje",module,Magento_Wishlist
@@ -16371,7 +16371,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please select State/Province.","Kérem válasszon államot/megyét.",lib,web
 "Please select a file.","Jelöljön ki egy fájlt.",lib,web
 "The field isn't complete.","A mező nem teljes.",lib,web
-"This is a required field.","Ez egy szükséges mező.",lib,web
+"This is a required field.","Ez a mező kötelező.",lib,web
 "Please select one of the options.","Jelöljön ki egyet a lehetőségek közül.",lib,web
 "Please enter a value less than or equal to %s.","Adjon meg egy értéket amely kisebb vagy egyenlő mint %s.",lib,web
 "Please enter a value greater than or equal to %s.","Adjon meg egy értéket amely nagyobb vagy egyenlő mint %s.",lib,web
@@ -16430,3 +16430,5 @@ Shipping Info,Szállítási adatok,module,Magento_Sales
 Your Cart,Az Ön kosara,module,Magento_Checkout
 Legal guarantee notice,Jogi garanciális tájékoztató,module,Swissup_CheckoutConsumerRights
 Toggle Nav,Menü,module,Magento_Theme
+"%1: Line %2","%1: %2. sor",module,Magento_Checkout
+"Tooltip","Súgó",module,Magento_Ui
