@@ -16432,3 +16432,4 @@ Legal guarantee notice,Jogi garanciális tájékoztató,module,Swissup_CheckoutC
 Toggle Nav,Menü,module,Magento_Theme
 "%1: Line %2","%1: %2. sor",module,Magento_Checkout
 "Tooltip","Súgó",module,Magento_Ui
+"The store will not work correctly when cookies are disabled.","Az áruház nem fog megfelelően működni, ha a cookie-k le vannak tiltva.",module,Magento_Theme
