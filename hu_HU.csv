@@ -12553,7 +12553,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Invoice Date","Invoice Date",module,Magento_Sales
 "Ship-to Name","Szállítási név",module,Magento_Sales
 "Ship Date","Ship Date",module,Magento_Sales
-"Total Quantity","Total Quantity",module,Magento_Sales
+"Total Quantity","Összmennyiség",module,Magento_Sales
 "Default Status","Default Status",module,Magento_Sales
 "State Code and Title","State Code and Title",module,Magento_Sales
 "Item Status","Item Status",module,Magento_Sales
@@ -12701,7 +12701,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "PDF Shipments","PDF Shipments",module,Magento_SalesArchive
 "Shipment","Shipment",module,Magento_SalesArchive
 "Ship Date","Ship Date",module,Magento_SalesArchive
-"Total Quantity","Total Quantity",module,Magento_SalesArchive
+"Total Quantity","Összmennyiség",module,Magento_SalesArchive
 "Go to Archive","Go to Archive",module,Magento_SalesArchive
 "Page not found.","Az oldal nem található.",module,Magento_SalesArchive
 "The ""%1"" product is not part of the current creditmemo.","The ""%1"" product is not part of the current creditmemo.",module,Magento_SalesInventory
