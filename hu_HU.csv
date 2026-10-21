@@ -16433,3 +16433,8 @@ Toggle Nav,Menü,module,Magento_Theme
 "%1: Line %2","%1: %2. sor",module,Magento_Checkout
 "Tooltip","Súgó",module,Magento_Ui
 "The store will not work correctly when cookies are disabled.","Az áruház nem fog megfelelően működni, ha a cookie-k le vannak tiltva.",module,Magento_Theme
+Your card has insufficient funds. Use a different payment method to complete this purchase.,A kártyán nincs elegendő fedezet. A vásárlás befejezéséhez használjon másik fizetési módot.
+Your card was declined.,A kártyáját elutasították.
+Your card has expired.,A kártyája lejárt.
+Your card's security code is incorrect.,A kártya biztonsági kódja helytelen.
+"The card couldn't be processed. Try the payment again. If it still fails, contact your card issuer.","A kártyát nem sikerült feldolgozni. Próbálja meg újra a fizetést. Ha továbbra sem sikerül, forduljon a kártya kibocsátójához."
